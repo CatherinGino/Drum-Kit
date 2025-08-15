@@ -29,7 +29,7 @@ Perfect for unleashing your inner drummer—no sticks required! 🎶
 ---
 
 ## 🚀 How to Use
-1. Open the [Drum Kit](https://catheringino.github.io/Drum-Kit/).
+1. Open the [Drum Kit](https://catheringino.github.io/DrumKit/).
 2. Press the keys **`w a s d j k l`** on your keyboard **or** click the drum icons.
 3. Enjoy the beats! 🥁
 
