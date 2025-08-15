@@ -4,7 +4,7 @@ A fun, interactive **Drum Kit** web app built with HTML, CSS, and JavaScript.
 Play different drum sounds by clicking the drum icons or pressing the corresponding keys on your keyboard.  
 Perfect for unleashing your inner drummer—no sticks required! 🎶
 
-🌐 **Live Demo**: [Play the Drum Kit](https://catheringino.github.io/Drum-Kit/)
+🌐 **Live Demo**: [Play the Drum Kit](https://catheringino.github.io/DrumKit/)
 
 ---
 
