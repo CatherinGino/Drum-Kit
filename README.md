@@ -39,9 +39,9 @@ Perfect for unleashing your inner drummer—no sticks required! 🎶
 If you want to run this project locally:
 ```bash
 # Clone the repository
-git clone https://github.com/CatherinGino/Drum-Kit.git
+git clone https://github.com/CatherinGino/DrumKit.git
 
 # Open the folder
-cd Drum-Kit
+cd DrumKit
 
 # Open index.html in your browser
